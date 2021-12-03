@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.header{
+	width: 1366px !important;
+    min-height: 54px;
+    background: #686666;
+}
+.header a{
+	float:left;
+	padding:5px 10px;
+	color:#b3b3b3;
+	border-radius:5px;
+	margin-top:6px;
+	margin-right:5px;
+	text-decoration: none !important;
+	font-size: 14px;
+	
+}
+.header a:hover{
+    color:#b3b3b3 !important;
+}
+.header-a{
+	margin-left:95px;
+	font-size: 14px;
+}
+.header-b{
+	border-right:1px solid white;
+	min-height: 51px;
+	width: 700px;
+	margin: 0px 0px -51px;
+}
+.header i{
+	padding: 8px 5px;
+}
+.icon{
+	width: 266px;
+	margin-left: 1100px; 
+	color:#b3b3b3;
+	min-height: 54px;
+}
+.icon i{
+	font-size: 18px !important;
+	margin-right: -16px;
+}
+.icon-b{
+	border-right:1px solid white;
+	min-height: 51px;
+	width: 185px;
+	margin: 0px 0px -51px;
+}
+.navbar{
+	width: 1366px;
+	height:140px;
+}
+.navbar-brand{
+	font-size: 26px !important;
+	font-family: 'Ubuntu', sans-serif;
+	margin-left: -16px !important;
+}
+.navbar-brand span{
+	background: #fd7e14;
+	color: white;
+	font-size: 26px !important;
+	font-family: 'Ubuntu', sans-serif;
+}
+.navbar-brand p{
+	font-size: 15px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+.navbar-nav{
+	margin-left: 113px !important;
+	width: 932px;
+}
+.nav-item{
+	padding: 10px;
+	font-size: 16px !important;
+	font-weight: bold;
+}
+.navbar-nav a:hover{
+	color: #fd7e14 !important;
+}
+.navbar-nav i{
+	margin-top: 21px;
+	margin-left: 35px;
+}
+.navbar-nav i:hover{
+	color: #fd7e14 !important;
+}
+
+
+
+
